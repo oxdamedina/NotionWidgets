@@ -10,7 +10,7 @@
 
 body {
   color: #3A3335;
-  font-family: VT323;
+  font-family: 'Roboto Mono';
   font-weight: bold;
 }
 
@@ -30,7 +30,7 @@ body {
   border: none;
   background: #01ABAA;
   font-size: 15px;
-  font-family: VT323;
+  font-family: 'Roboto Mono';
   font-weight: bold;
   text-align: center;
   box-shadow: 3px 3px 2px #888888;
@@ -63,7 +63,7 @@ body {
 .start-pause button {
   border: none;
   background: #01ABAA;
-  font-family: VT323;
+  font-family: 'Roboto Mono';
   font-weight: bold;
   margin: 15px;
   box-shadow: 3px 3px 2px #888888;
@@ -88,7 +88,7 @@ body {
   border: none;
   background: #DC5754;
   font-size: 25px;
-  font-family: VT323;
+  font-family: 'Roboto Mono';
   font-weight: bold;
   box-shadow: 3px 3px 2px #888888;
   margin-left: 115px;
