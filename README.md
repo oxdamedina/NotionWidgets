@@ -43,7 +43,7 @@
     https://oxdamedina.github.io/NotionWidgets/buttons/demo.html
     ```
     ```
-    https://oxdamedina.github.io/NotionWidgets/buttons/etsy.html
+    https://oxdamedina.github.io/NotionWidgets/buttons/modern.html
     ```
     ```
     https://oxdamedina.github.io/NotionWidgets/buttons/socials.html
@@ -52,7 +52,7 @@
   
     ![Demo Buttons](/images/buttons-demo.png)
     
-    ![Etsy Buttons](/images/buttons-etsy.png)
+    ![Modern Buttons](/images/buttons-etsy.png)
     
     ![Social Buttons](/images/button-socials.png)
 </details>
